@@ -10,5 +10,8 @@ Este es un parrafo.
 * Elementos de una lista.
 * Elementos de una lista.
 
-Nueva linea agregada online
+Nueva linea agregada online. 
+
 Otra linea agregada localmente.
+
+Correcciones online finales. 
