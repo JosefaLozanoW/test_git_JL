@@ -18,3 +18,5 @@ Correcciones online finales.
 
 Esta linea se agrego en el fork test_git_uc. 
 Luego pull request al test_uc. 
+
+Texto agregado desde el mac 2 de Alicia.
