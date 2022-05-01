@@ -22,3 +22,5 @@ Luego pull request al test_uc.
 Texto agregado desde el mac 2 de Alicia.
 
 Linea agregada el domingo en el rivegam online.
+
+Y esta otra agregada localmente el mismo domingo. 
