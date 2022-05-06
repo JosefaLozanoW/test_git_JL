@@ -24,3 +24,5 @@ Texto agregado desde el mac 2 de Alicia.
 Linea agregada el domingo en el rivegam online.
 
 Y esta otra agregada localmente el mismo domingo. 
+
+Dia viernes. Esto es agregado en mi github online, viernes 6 mayo.
