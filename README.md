@@ -28,3 +28,6 @@ Y esta otra agregada localmente el mismo domingo.
 Dia viernes. Esto es agregado en mi github online, viernes 6 mayo.
 
 Dia domingo cumple , cambios realizados compu mj.
+
+Lindo domingo va a ser para mi preciosa Alicia, besos desde ricardovv
+
