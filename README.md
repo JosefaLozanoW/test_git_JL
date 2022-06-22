@@ -31,3 +31,4 @@ Dia domingo cumple , cambios realizados compu mj.
 
 Lindo domingo va a ser para mi preciosa Alicia, besos desde ricardovv
 
+Este es un ejemplo con Javiera en la sala de diseño. 
