@@ -1,9 +1,9 @@
 # test_git
 Material para clases de git y github.
 
-# Este es el titulo markdown.
+## Este es el titulo markdown.
 
-## Sub titulo markdown.
+### Sub titulo markdown.
 
 Este es un parrafo. 
 
@@ -36,3 +36,5 @@ Este es un ejemplo con Javiera en la sala de diseño.
 Esto es lo más divertido, es el primer cambio local que hago ;)
 
 Que bueno que resulto todo... felicitaciones!
+
+Hola, no se asusten con estas cosas, se va a poner peor....
