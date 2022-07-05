@@ -38,3 +38,6 @@ Esto es lo más divertido, es el primer cambio local que hago ;)
 Que bueno que resulto todo... felicitaciones!
 
 Hola, no se asusten con estas cosas, se va a poner peor....
+
+Esta clase TC es muy linda el 5 julio 2022.
+
